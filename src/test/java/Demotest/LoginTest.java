@@ -22,7 +22,7 @@ public void setup() {
 public void dologin() {
 	driver.get("https://www.facebook.com/?stype=lo&jlou=AfeHuAJLb66vFBmSRYcJBTkOkimbxp4ouCB4PlSkX1s2vML2b-2766PJGMdOLDJt07DZMDmSBVSA3wExhYiUmODCVk6gj2-3_pLU2PS2f7KIUQ&smuh=28241&lh=Ac_XlQsZnPIL9m7y_RQ");
 driver.findElement(By.id("email")).sendKeys("piyushgolu9199@gmail.com");
-driver.findElement(By.id("pass")).sendKeys("7209296269");
+driver.findElement(By.id("pass")).sendKeys("8982373997");
 driver.findElement(By.id("SignIn")).click();
 }
 @AfterSuite
